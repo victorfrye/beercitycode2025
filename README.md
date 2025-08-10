@@ -12,15 +12,15 @@ The following is a list of resources from my presentations at Beer City Code 202
 
 ## Aspire to Effortless
 
-- [Presentation Slides](./files/aspiretoeffortless.pdf)
-- [Demo Repository](https://github.com/victorfrye/crudcounter)
+- [Presentation slide deck](./files/aspiretoeffortless.pdf)
+- [CRUD Counter demo repository](https://github.com/victorfrye/crudcounter)
 - [Aspire roadmap 2025 blog post](https://victorfrye.com/blog/posts/aspire-roadmap-2025)
 - [Aspire Discord](https://aka.ms/aspire-discord)
 - [Feedback form](https://forms.cloud.microsoft/r/V60xbF9iRW)
 
 ## AI for Dummies
 
-- [Presentation Slides](./files/aifordummies.pdf)
+- [Presentation slide deck](./files/aifordummies.pdf)
 - [Mocking Mirror demo app](https://github.com/victorfrye/mockingmirror)
 - [Feedback form](https://forms.cloud.microsoft/r/PdYbrMsDDY)
 
